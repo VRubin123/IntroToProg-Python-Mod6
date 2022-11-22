@@ -68,7 +68,7 @@ class Processor:
         row = {"Task": str(task).strip()}
         na_task = False
         for row in list_of_rows:
-            if row["Task"] == task:
+            if row["Task"].lower() == task.lower():
                 list_of_rows.remove(row)
                 na_task = True
         if na_task == False:
