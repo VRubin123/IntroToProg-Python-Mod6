@@ -6,4 +6,4 @@
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-https://github.com/VRubin123/IntrotoProg-Python-Mod6
+[Assignment06](https://github.com/VRubin123/IntrotoProg-Python-Mod6)
