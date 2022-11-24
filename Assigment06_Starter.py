@@ -8,7 +8,7 @@
 # RRoot,1.1.2030,Created started script
 # VRubin,11.19.2022,Modified code to complete assignment 06
 # ---------------------------------------------------------------------------- #
-#!
+#!/bin/bash
 # Data ---------------------------------------------------------------------- #
 # Declare variables and constants
 file_name_str = "ToDoFile.txt"  # The name of the data file
