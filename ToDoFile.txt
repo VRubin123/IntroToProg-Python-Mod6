@@ -1,0 +1,3 @@
+read, high
+sleep, high
+bark, low
